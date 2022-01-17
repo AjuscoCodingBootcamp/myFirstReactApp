@@ -2,6 +2,7 @@
   "name": "myfirst_reactapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://VaniushaR.github.io/myFirstReactApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -9,8 +10,8 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1",
-    "homepage": "https://VaniushaR.github.io/myFirstReactApp" 
+    "web-vitals": "^1.0.1"
+    
   },
   "scripts": {
     "start": "react-scripts start",
